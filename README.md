@@ -1,4 +1,4 @@
-<h1>Curso sobre Desenvolvimento Wwb</h1>
+<h1>Curso sobre Desenvolvimento Web</h1>
 
 <h2>Sobre o curso</h2> <br>
 
